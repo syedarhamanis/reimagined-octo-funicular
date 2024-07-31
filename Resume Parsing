@@ -1,0 +1,40 @@
+{
+  "name": "Syed Arham Anis",
+  "contact_information": {
+    "email": "syedarhamanees@gmail.com",
+    "phone": "123-456-7890",
+    "linkedin": "https://www.linkedin.com/in/yourprofile"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications",
+      "institution": "MJP",
+      "year_of_graduation": "2025"
+    }
+  ],
+  "work_experience": [
+    {
+      "position": "Software Engineering Intern",
+      "company": "ABC Company",
+      "duration": "June 2023 - August 2023",
+      "responsibilities": [
+        "Developed REST APIs using Node.js.",
+        "Worked on frontend using React."
+      ]
+    }
+  ],
+  "skills": ["JavaScript", "Java", "HTML", "CSS", "C", "C++"],
+  "certifications": [
+    {
+      "name": "Create a REST API using Node.js Serverless Functions",
+      "platform": "Coursera"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Title",
+      "description": "Brief description of the project.",
+      "technologies": ["Technology1", "Technology2"]
+    }
+  ]
+}
